@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kxrium.kxrium" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=CA0C16FF&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Neema!;Also+known+as+mi3fit+;Welcome+to...;My+Work+in+progress.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=CA0C16FF&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Neema!;Also+known+as+kxriumt+;Welcome+to...;My+Work+in+progress.;" />
 </h1>
 
 <h3 align="center">Aspiring Red-teamer</h3>
